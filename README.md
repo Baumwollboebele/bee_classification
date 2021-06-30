@@ -13,7 +13,7 @@ Bees also act as indicators of the state of the environment. Their presence, abs
 
 
 This Project focuses on detecting Bees via a **Inception ResNet V2**.
-With image augmentation and an Adamax optimizer, an **accuracy of 0.954** has been achieved.
+With image augmentation and an Adamax optimizer, an **accuracy of 0.9541**  and a **loss of 0.1483** has been achieved.
 
 ------------
 <figure>
@@ -42,13 +42,11 @@ Quelle:<br>
 
 <br>
 
-**Checkpoint/**: Contains the saved Model with the highest validation .accuracy
-<br><br>
-**data/**: Contains the data.
-<br><br>
 **img/**: Contains visual images of the convolutional neural networks used in this project.
 <br><br>
 **README.md**: Conatins a quick overview of the project.
 <br><br>
 **bee_classification.ipynb**: Contains the main project.
+<br><br>
+**requirements.txt**: Contains all the necessary libraries.
 <br><br>
