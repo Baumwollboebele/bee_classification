@@ -36,12 +36,11 @@ Quelle:<br>
 
 ## Repository
 .<br>
-
 ├── README.md<br>
-├── bee_classification.ipynb
-├── bee_classification.html
-├── requirements.txt
-├── img/
+├── bee_classification.ipynb<br>
+├── bee_classification.html<br>
+├── requirements.txt<br>
+├── img/<br>
 <br>
 
 **img/**: Contains visual images of the convolutional neural networks used in this project.
