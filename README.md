@@ -1,13 +1,18 @@
 # Bees vs Wasps 
 ## Classification of Bees via convolutional neural networks
 
-Bees are renowned for their role in providing high-quality food (honey, royal jelly and pollen) and other products used in healthcare and other sectors (beeswax, propolis, honey bee venom). But the work of bees entails much more!
+"Bees are renowned for their role in providing high-quality food (honey, royal jelly and pollen) and other products used in healthcare and other sectors (beeswax, propolis, honey bee venom). But the work of bees entails much more!
 
 The greatest contribution of bees and other pollinators is the pollination of nearly three quarters of the plants that produce 90% of the world’s food. A third of the world’s food production depends on bees, i.e. every third spoonful of food depends on pollination.
 
 Bees are vital for the preservation of ecological balance and biodiversity in nature. They provide one of the most recognisable ecosystem services, i.e. pollination, which is what makes food production possible. By doing so, they protect and maintain ecosystems as well as animal and plant species, and contribute to genetic and biotic diversity.
 
-Bees also act as indicators of the state of the environment. Their presence, absence or quantity tells us when something is happening with the environment and that appropriate action is needed. By observing the development and health of bees, it is possible to ascertain changes in the environment and implement the necessary precautionary measures in time.
+Bees also act as indicators of the state of the environment. Their presence, absence or quantity tells us when something is happening with the environment and that appropriate action is needed. By observing the development and health of bees, it is possible to ascertain changes in the environment and implement the necessary precautionary measures in time."
+
+
+Quelle:<br>
+https://www.worldbeeday.org/en/about/the-importance-of-bees.html
+https://cdn.britannica.com/45/188945-050-E16A4676/Wasp-bee-insect.jpg
 
 -------------------
 
@@ -27,9 +32,7 @@ With image augmentation and an Adamax optimizer, an **accuracy of 0.9541**  and 
 </figure>
 
 <br>
-Quelle:<br>
-<https://www.worldbeeday.org/en/about/the-importance-of-bees.html>
-<https://cdn.britannica.com/45/188945-050-E16A4676/Wasp-bee-insect.jpg>
+
 
 ![](https://cdn.britannica.com/45/188945-050-E16A4676/Wasp-bee-insect.jpg)
 
