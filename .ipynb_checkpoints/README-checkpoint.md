@@ -48,8 +48,5 @@ Quelle:<br>
 <br><br>
 **bee_classification.ipynb**: Contains the main project.
 <br><br>
-**bee_classification.html**: Contains the mian project in html format.
-<br><br>
 **requirements.txt**: Contains all the necessary libraries.
 <br><br>
-
