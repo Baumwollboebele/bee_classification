@@ -4,7 +4,6 @@
 ## Table of Contents
 1. [Repository](#repository)
 2. [Summary](#summary)
-3. 
 
 ## Repository
 .<br>
@@ -62,7 +61,4 @@ With image augmentation and an Adamax optimizer, an **accuracy of 0.9541**  and 
 <br>
 
 ![](https://cdn.britannica.com/45/188945-050-E16A4676/Wasp-bee-insect.jpg)
-
-
-## Result
 
