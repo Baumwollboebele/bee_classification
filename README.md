@@ -61,27 +61,8 @@ With image augmentation and an Adamax optimizer, an **accuracy of 0.9541**  and 
 
 <br>
 
-
 ![](https://cdn.britannica.com/45/188945-050-E16A4676/Wasp-bee-insect.jpg)
 
 
-## Repository
-.<br>
-├── README.md<br>
-├── bee_classification.ipynb<br>
-├── bee_classification.html<br>
-├── requirements.txt<br>
-├── img/<br>
-<br>
-
-**img/**: Contains visual images of the convolutional neural networks used in this project.
-<br><br>
-**README.md**: Conatins a quick overview of the project.
-<br><br>
-**bee_classification.ipynb**: Contains the main project.
-<br><br>
-**bee_classification.html**: Contains the mian project in html format.
-<br><br>
-**requirements.txt**: Contains all the necessary libraries.
-<br><br>
+## Result
 
