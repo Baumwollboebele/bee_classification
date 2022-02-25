@@ -1,5 +1,33 @@
-# Bees vs Wasps 
-## Classification of Bees via convolutional neural networks
+# Classification of Bees via convolutional neural networks
+
+
+## Table of Contents
+1. [Repository](#repository)
+2. [Summary](#summary)
+3. 
+
+## Repository
+.<br>
+├── README.md<br>
+├── bee_classification.ipynb<br>
+├── bee_classification.html<br>
+├── requirements.txt<br>
+├── img/<br>
+<br>
+
+**img/**: Contains visual images of the convolutional neural networks used in this project.
+<br><br>
+**README.md**: Conatins a quick overview of the project.
+<br><br>
+**bee_classification.ipynb**: Contains the main project.
+<br><br>
+**bee_classification.html**: Contains the mian project in html format.
+<br><br>
+**requirements.txt**: Contains all the necessary libraries.
+<br><br>
+
+
+## Summary
 
 "Bees are renowned for their role in providing high-quality food (honey, royal jelly and pollen) and other products used in healthcare and other sectors (beeswax, propolis, honey bee venom). But the work of bees entails much more!
 
