@@ -20,7 +20,6 @@
 <br><br>
 **bee_classification.ipynb**: Contains the main project.
 <br><br>
-
 **requirements.txt**: Contains all the necessary libraries.
 <br><br>
 
